@@ -3,8 +3,11 @@
 This will create some endpoints define in the `db.json` where you can fetch data.
 
 `https://my-fake-json-server.herokuapp.com/superheroes`
+
 `https://my-fake-json-server.herokuapp.com/superheroes/:id`
+
 `https://my-fake-json-server.herokuapp.com/friends`
+
 `https://my-fake-json-server.herokuapp.com/friends/:id`
 
 You can also make `post/put/delete` requests. Example:
